@@ -1,4 +1,4 @@
-@import 'variables.less';
+@import 'app/theme.scss';
 
 * {
     box-sizing: border-box;
@@ -11,7 +11,4 @@ html, body {
 
 body {
     overflow-x: hidden;
-}
-
-#app {
 }

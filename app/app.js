@@ -2,7 +2,7 @@
 import React from 'react';
 
 /** Import app styles */
-import './app.less';
+import './app.scss';
 import 'bootstrap/dist/css/bootstrap.css';
 
 /** Import global JS Libraries*/
