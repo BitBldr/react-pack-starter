@@ -1,4 +1,4 @@
-react-pack-fullstack
+react-pack-starter
 ==================
 A simple react starter kit that uses npm and webpack.
 
