@@ -1,6 +1,6 @@
 {
   "name": "react-pack-starter",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A simple react starter kit that uses npm and webpack",
   "keywords": [],
   "devDependencies": {
