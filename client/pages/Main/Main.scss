@@ -1,8 +1,15 @@
-@import 'app/theme.scss';
+@import 'client/theme';
 
 .MainPage {
     overflow: auto;
     white-space: nowrap;
+    
+    background-color: #eee;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
 }
 
 .Container {

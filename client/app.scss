@@ -1,4 +1,4 @@
-@import 'app/theme.scss';
+@import 'client/theme';
 
 * {
     box-sizing: border-box;
@@ -11,4 +11,7 @@ html, body {
 
 body {
     overflow-x: hidden;
+}
+
+#app {
 }

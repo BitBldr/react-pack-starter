@@ -8,6 +8,7 @@ import ContentPanel from 'app/components/ContentPanel';
 import './Main.scss';
 
 export default class Main extends Page {
+  /** React Render */
   render() {
     return (
     <div className='MainPage'>

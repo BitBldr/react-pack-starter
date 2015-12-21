@@ -1,5 +1,3 @@
-index.html
+dist/
 node_modules/
-.tmp/
-assets/app/
-data/*
+jsconfig.json
