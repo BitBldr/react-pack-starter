@@ -44,5 +44,5 @@
   },
   "author": "Eli Knebel",
   "license": "MIT",
-  "main": "app.js"
+  "main": "dist/bundle.js"
 }
